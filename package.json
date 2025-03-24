@@ -1,0 +1,22 @@
+{
+  "name": "testtribe_playwright_cucumber_workshop_mar2025",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VigneshSrinivasaRaghavan/TestTribe_Playwright_Cucumber_Workshop_Mar2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VigneshSrinivasaRaghavan/TestTribe_Playwright_Cucumber_Workshop_Mar2025/issues"
+  },
+  "homepage": "https://github.com/VigneshSrinivasaRaghavan/TestTribe_Playwright_Cucumber_Workshop_Mar2025#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.11"
+  }
+}
